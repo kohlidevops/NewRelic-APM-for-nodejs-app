@@ -100,7 +100,7 @@ Now you can see your data.
 
 ![image](https://github.com/kohlidevops/NewRelic-APM-for-nodejs-app/assets/100069489/f48249f7-45a0-4e69-8d7d-8f558844f905)
 
-Now time to play! You have to do some transaction like any load or performance test on your application with the help Testing team and you can see the transaction traces for Web or Non-Web, Database connection - throughput, query time, SQL traces and so on.
+Now time to play! You have to do some transaction like any load or performance test on your application with the help of your Testing team and you can see the transaction traces for Web or Non-Web, Database connection - throughput, query time, SQL traces and so on.
 
 #### If you are not receiving any traces then please restart your application and let check NewRelic.
 
